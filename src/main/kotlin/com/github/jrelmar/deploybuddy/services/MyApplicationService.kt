@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.jrelmar.deploybuddy.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jrelmar.deploybuddy.MyBundle
 
 class MyApplicationService {
 

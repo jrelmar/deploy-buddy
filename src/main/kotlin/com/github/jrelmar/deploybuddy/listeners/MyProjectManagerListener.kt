@@ -1,8 +1,8 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.jrelmar.deploybuddy.listeners
 
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.jrelmar.deploybuddy.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 

@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.jrelmar.deploybuddy.services
 
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
+import com.github.jrelmar.deploybuddy.MyBundle
 
 class MyProjectService(project: Project) {
 
